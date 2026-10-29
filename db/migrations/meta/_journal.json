@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1793264018043,
+      "tag": "20261029085338_light_hobgoblin",
+      "breakpoints": true
+    }
+  ]
+}
