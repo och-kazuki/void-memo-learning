@@ -1,0 +1,16 @@
+node_modules
+dist
+.void
+.wrangler
+.void-wrangler.jsonc
+.env
+.env.*
+# Scaffold keeps this exception. Void 1.3.0 still refuses to start if the file exists.
+!.env.example
+*.tsbuildinfo
+.DS_Store
+*.pem
+*.key
+.dev.vars
+.dev.vars.*
+coverage
